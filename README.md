@@ -1,6 +1,6 @@
 # Hi there, I'm Hilal! 👋
 
-### 💻 Data Scientist | AI & Machine Learning Enthusiast |
+### 💻 Data Scientist | AI & Machine Learning Enthusiast
 
 📍 London, UK | 📧 hilal.duraker@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hilaltasdan/) | [Website](hilaltasdan.com) | [Medium](https://medium.com/) | [Kaggle](https://www.kaggle.com/) | [GitHub](https://github.com/hilaltasdan) | [Plus UI](https://plusui.com)  
